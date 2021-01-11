@@ -7,5 +7,5 @@ Approximation result will be ploted out on QChart.
 
 ## Screenshot
 
-![alt text](https://github.com/wvovaw/LSApproximation/blob/master/mw.png?raw=true)
+![alt text](https://raw.githubusercontent.com/wvovaw/LSApproximation/main/mw.png?raw=true)
 
